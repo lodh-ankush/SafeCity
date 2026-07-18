@@ -1,0 +1,13 @@
+fastapi
+uvicorn[standard]
+websockets
+pydantic
+transformers
+torch
+torchvision
+torchaudio
+opencv-python
+pydub
+soundfile
+python-multipart
+requests

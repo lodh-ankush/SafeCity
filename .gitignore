@@ -1,0 +1,9 @@
+safecity_env/
+__pycache__/
+*.pyc
+backend/safecity.db
+backend/safecity.db-wal
+backend/safecity.db-shm
+*.log
+frontend/node_modules/
+frontend/dist/
